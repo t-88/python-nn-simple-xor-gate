@@ -1,0 +1,2 @@
+Coding a Neural Network from Scratch in C: No Libraries Required: https://www.youtube.com/watch?v=LA4I3cWkp1E&ab_channel=NicolaiNielsen-ComputerVision%26AI
+Training my First NEURAL NETWORK in C++ and SFML - AI Tutorial: https://www.youtube.com/watch?v=Zrrnqd0rCXg&ab_channel=Kofybrek
